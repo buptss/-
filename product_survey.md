@@ -17,4 +17,5 @@ https://ai-bot.cn/vidyo-ai/
 2，移动端视频高光时刻专利-西安电子科大
 https://zhuanli.book118.com/view/165e14023928762100858882.html
 
-3，
+3，一种视频高光检测方法和装置与流程
+https://www.xjishu.com/zhuanli/55/202211427968.html
